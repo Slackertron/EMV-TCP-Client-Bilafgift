@@ -1,0 +1,11 @@
+C:\Users\emilm\source\repos\TcpClientSkat\bin\Debug\netcoreapp3.0\TcpClientSkat.exe
+C:\Users\emilm\source\repos\TcpClientSkat\bin\Debug\netcoreapp3.0\TcpClientSkat.deps.json
+C:\Users\emilm\source\repos\TcpClientSkat\bin\Debug\netcoreapp3.0\TcpClientSkat.runtimeconfig.json
+C:\Users\emilm\source\repos\TcpClientSkat\bin\Debug\netcoreapp3.0\TcpClientSkat.runtimeconfig.dev.json
+C:\Users\emilm\source\repos\TcpClientSkat\bin\Debug\netcoreapp3.0\TcpClientSkat.dll
+C:\Users\emilm\source\repos\TcpClientSkat\bin\Debug\netcoreapp3.0\TcpClientSkat.pdb
+C:\Users\emilm\source\repos\TcpClientSkat\obj\Debug\netcoreapp3.0\TcpClientSkat.csprojAssemblyReference.cache
+C:\Users\emilm\source\repos\TcpClientSkat\obj\Debug\netcoreapp3.0\TcpClientSkat.AssemblyInfoInputs.cache
+C:\Users\emilm\source\repos\TcpClientSkat\obj\Debug\netcoreapp3.0\TcpClientSkat.AssemblyInfo.cs
+C:\Users\emilm\source\repos\TcpClientSkat\obj\Debug\netcoreapp3.0\TcpClientSkat.dll
+C:\Users\emilm\source\repos\TcpClientSkat\obj\Debug\netcoreapp3.0\TcpClientSkat.pdb
